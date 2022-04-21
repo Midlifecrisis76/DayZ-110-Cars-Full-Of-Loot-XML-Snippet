@@ -3,8 +3,8 @@
 
 
 <type name="OffroadHatchback">
-			<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="1.00" />
+		<attachments chance="1.00">
+		<item name="HatchbackWheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="HatchbackWheel" chance="1.00" />
@@ -121,7 +121,7 @@
 			<item name="Flag_Altis" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Flag_APA" chance="1.00" />
+			<item name="Flag_Wolf" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Battery9V" chance="1.00" />
@@ -249,7 +249,7 @@
 			<item name="TerritoryFlagKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Flag_Altis" chance="1.00" />
+			<item name="Flag_Wolf" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Flag_APA" chance="1.00" />
@@ -380,7 +380,7 @@
 			<item name="TerritoryFlagKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Flag_Altis" chance="1.00" />
+			<item name="Flag_Snake" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Flag_APA" chance="1.00" />		
@@ -442,7 +442,6 @@
 		<attachments chance="1.00">
 			<item name="CivSedanTrunk" chance="1.00" />
 		</attachments>
-		
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
@@ -485,7 +484,6 @@
 		<attachments chance="1.00">
 			<item name="Pot" chance="1.00" />
 		</attachments>
-		
 		<attachments chance="1.00">
 			<item name="FishingRod" chance="1.00" />
 		</attachments>
@@ -495,7 +493,7 @@
 		<attachments chance="1.00">
 			<item name="Hook" chance="1.00" />
 		</attachments>
-		</type>
+	</type>
 	<type name="CivilianSedan_Wine">
 		<attachments chance="1.00">
 			<item name="CivSedanWheel" chance="1.00" />
@@ -594,7 +592,6 @@
 		<attachments chance="1.00">
 			<item name="Hook" chance="1.00" />
 		</attachments>
-		
 	</type>
 	<type name="CivilianSedan_Black">
 		<attachments chance="1.00">
